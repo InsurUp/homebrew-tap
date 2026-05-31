@@ -10,14 +10,14 @@ brew tap InsurUp/insurup
 
 | Formula | Description | Source |
 | --- | --- | --- |
-| `insurup` | InsurUp CLI | [InsurUp/cli](https://github.com/InsurUp/cli) |
+| `cli` | InsurUp CLI | [InsurUp/cli](https://github.com/InsurUp/cli) |
 
 Install any formula with:
 
 ```bash
 brew install InsurUp/insurup/<formula>
 # e.g.
-brew install InsurUp/insurup/insurup
+brew install InsurUp/insurup/cli
 ```
 
 ## How formulae are maintained

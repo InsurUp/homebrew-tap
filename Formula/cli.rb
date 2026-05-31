@@ -1,4 +1,4 @@
-class Insurup < Formula
+class Cli < Formula
   desc "Command-line interface for the InsurUp insurance platform"
   homepage "https://github.com/InsurUp/cli"
   version "0.1.0"
