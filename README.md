@@ -3,7 +3,7 @@
 Homebrew formulae for [InsurUp](https://insurup.com) command-line tools.
 
 ```bash
-brew tap InsurUp/insurup
+brew tap InsurUp/tap
 ```
 
 ## Available formulae
@@ -17,7 +17,7 @@ Install any formula with:
 ```bash
 brew install InsurUp/insurup/<formula>
 # e.g.
-brew install InsurUp/insurup/cli
+brew install InsurUp/tap/cli
 ```
 
 ## How formulae are maintained
