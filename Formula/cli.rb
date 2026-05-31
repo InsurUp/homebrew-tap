@@ -1,28 +1,28 @@
 class Cli < Formula
   desc "Command-line interface for the InsurUp insurance platform"
   homepage "https://github.com/InsurUp/cli"
-  version "0.1.0"
+  version "0.1.1"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/InsurUp/cli/releases/download/v0.1.0/insurup-darwin-arm64"
-      sha256 "a314a32e31c9262bb258970d97c067dd03b720636ca7122fbb420d57936f932b"
+      url "https://github.com/InsurUp/cli/releases/download/v0.1.1/insurup-darwin-arm64"
+      sha256 "e5cf5c920be342818e1eecae3a0b1327be3e7bb6414641e5a6f0623c5b07ec2f"
     end
     on_intel do
-      url "https://github.com/InsurUp/cli/releases/download/v0.1.0/insurup-darwin-x64"
-      sha256 "32e94631f7073fdf6e7914cba14c512e49f277b283b99c484ffde3d271c22cce"
+      url "https://github.com/InsurUp/cli/releases/download/v0.1.1/insurup-darwin-x64"
+      sha256 "280b549b1a0e6f63fc3dcfefc5c2834bb0709523273ee0b14e38da6776e0b557"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/InsurUp/cli/releases/download/v0.1.0/insurup-linux-arm64"
-      sha256 "ceff9a9a363fbf5f855953b69d8d304d59085ff4cc3222c8d5d681881888d556"
+      url "https://github.com/InsurUp/cli/releases/download/v0.1.1/insurup-linux-arm64"
+      sha256 "92efbc8158311bd93f92f90f2eaff96a9ef5569199d3f5e03c9d166c43071cc9"
     end
     on_intel do
-      url "https://github.com/InsurUp/cli/releases/download/v0.1.0/insurup-linux-x64"
-      sha256 "07c3f6e7bf4b6252c7935cc53cde865985a384f5817bf437f37dacc224f95e18"
+      url "https://github.com/InsurUp/cli/releases/download/v0.1.1/insurup-linux-x64"
+      sha256 "0e5e0003990da33f68f780ab0daaa5dd28bcdebe3e14f687e8c3be1e4ab248cc"
     end
   end
 
