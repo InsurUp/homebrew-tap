@@ -1,8 +1,8 @@
 class Plugin < Formula
   desc "TypeScript authoring SDK for InsurUp plugins"
   homepage "https://github.com/InsurUp/plugin"
-  url "https://registry.npmjs.org/@insurup/plugin/-/plugin-0.1.1.tgz"
-  sha256 "85a3e4e9ee11939131a7ffacf924037eeddefa48c6c354c3bd64bb98625ab623"
+  url "https://registry.npmjs.org/@insurup/plugin/-/plugin-0.1.2.tgz"
+  sha256 "d6e368f6ce3e82cade1189a8026cd486d0854578d5f703a14b5ee0081ba625e0"
   license "MIT"
 
   def install
